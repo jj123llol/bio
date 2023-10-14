@@ -4,5 +4,5 @@ getgenv().me = {
 }
 
 for _,v in(me) do
-    print("\n"..v.."")
+    print(""..v.."\n")
 end
