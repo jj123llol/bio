@@ -1,6 +1,10 @@
+--🤯
+
 getgenv().me = {
-  name = "Jude",
+  onlinename = "Rev",
+  irlname = "Jude",
   age = 14
+  hobbies = "Scripting, playing games"
 }
 
 for _,v in(me) do
