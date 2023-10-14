@@ -1,0 +1,8 @@
+getgenv().me = {
+  name = "Jude",
+  age = 14
+}
+
+for _,v in(me) do
+    print("\n"..v.."")
+end
