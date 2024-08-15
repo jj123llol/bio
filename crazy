@@ -1,6 +1,6 @@
 --🤯
 
-getgenv().me = {
+me = {
   onlinename = "Rev",
   irlname = "Jude",
   age = 15,
@@ -8,6 +8,6 @@ getgenv().me = {
   RelationshipStatus = "Taken"
 }
 
-for _,v in(me) do
-    print(""..v.."\n")
+for i,v in pairs(me) do
+    print(i..": "..v.."\n")
 end
