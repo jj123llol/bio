@@ -4,7 +4,8 @@ getgenv().me = {
   onlinename = "Rev",
   irlname = "Jude",
   age = 15,
-  hobbies = "Scripting, playing games"
+  hobbies = "Scripting, playing games",
+  RelationshipStatus = "Taken"
 }
 
 for _,v in(me) do
